@@ -18,6 +18,8 @@ import com.example.todoapp.adapters.TodoListAdapter;
 import com.example.todoapp.dao.TodoDAO;
 import com.example.todoapp.model.Todo;
 
+import java.net.SocketOption;
+import java.sql.SQLOutput;
 import java.util.List;
 
 public class TodoListActivity extends Activity {
